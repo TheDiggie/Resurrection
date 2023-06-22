@@ -1,18 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
-		},
-		{
-			"Name": "PaperZD",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
-		},
 		{
 			"Name": "OculusVR",
 			"Enabled": false,
@@ -66,6 +57,10 @@
 		},
 		{
 			"Name": "ExampleAssetEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
 	],
