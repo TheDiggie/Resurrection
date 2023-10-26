@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.1",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -54,14 +54,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "ExampleAssetEditor",
-			"Enabled": true
-		},
-		{
-			"Name": "SkeletalMeshModelingTools",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
